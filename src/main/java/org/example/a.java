@@ -9,4 +9,8 @@ public class a {
     void aa(){
 
     }
+
+    void dev(){
+
+    }
 }
